@@ -137,7 +137,7 @@ router.get('/', async (req, res) => {
                     return removeFile('./temp/' + id);
                 } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode !== 401) {
                     await delay(10000);
-                    TECHSYNC_PAIR_CODE();
+                    MALVIN_PAIR_CODE();
                 }
             });
         } catch (err) {
@@ -150,7 +150,7 @@ router.get('/', async (req, res) => {
         }
     }
 
-    await TECHYSNC_PAIR_CODE();
+    await MALVIN_PAIR_CODE();
 });
 
 module.exports = router;
