@@ -1,2 +1,3 @@
-# Techsync-pair2
-Techsync Pair Code 2
+> 𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃 𝐏𝐀𝐈𝐑 𝐂𝐎𝐃𝐄 𝟐
+
+> 𝐓𝐇𝐀𝐍𝐊 𝐘𝐎𝐔
